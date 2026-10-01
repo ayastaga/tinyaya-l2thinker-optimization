@@ -1,0 +1,5 @@
+# for scripts/readout.py and notebooks/01_verify_from_rows.ipynb (no GPU)
+pandas>=2.0
+numpy>=1.24
+# optional, for the L2 (wrong-language) rate: fasttext-wheel + lid.176.bin
+# the full pipeline notebook installs its own pinned toolchain (llama-cpp-python 0.3.35, llama.cpp 5f436ddd)

@@ -1,0 +1,50 @@
+{"id": "cs:en:00", "lang": "en", "category": "names", "prompt": "Write a short bio for a fictional violinist named Søren Ødegaard from Ålesund, Norway, who studied under Élodie Beaumarchais in Lyon.", "gold": null}
+{"id": "cs:en:01", "lang": "en", "category": "names", "prompt": "Draft a two-paragraph welcome email to new colleagues Nguyễn Thị Hương, Wojciech Szczęsny and Ayşe Yıldız joining the Bangalore office.", "gold": null}
+{"id": "cs:en:02", "lang": "en", "category": "names", "prompt": "List five plausible Danish pastry names with one-line descriptions, spelled correctly with Danish letters.", "gold": null}
+{"id": "cs:en:03", "lang": "en", "category": "names", "prompt": "Give a packing list for a week in Kraków, Łódź and Wrocław in January, naming each city correctly.", "gold": null}
+{"id": "cs:en:04", "lang": "en", "category": "names", "prompt": "Explain who Ludwig van Beethoven's patrons were, using their full German names.", "gold": null}
+{"id": "cs:en:05", "lang": "en", "category": "loanwords", "prompt": "Explain what schadenfreude, zeitgeist and doppelgänger mean and use each in a sentence.", "gold": null}
+{"id": "cs:en:06", "lang": "en", "category": "loanwords", "prompt": "What is the difference between crème brûlée, crème caramel and flan?", "gold": null}
+{"id": "cs:en:07", "lang": "en", "category": "loanwords", "prompt": "Describe a typical Vietnamese phở with its ingredients, using the Vietnamese names for the herbs.", "gold": null}
+{"id": "cs:en:08", "lang": "en", "category": "loanwords", "prompt": "What does 'hygge' mean and how is it different from 'gemütlichkeit' and 'koselig'?", "gold": null}
+{"id": "cs:en:09", "lang": "en", "category": "translate", "prompt": "Translate to Portuguese: 'The tree trunk was covered in moss after the rain.'", "gold": null}
+{"id": "cs:en:10", "lang": "en", "category": "translate", "prompt": "Translate to Swahili: 'Please bring the medicine to my grandmother before sunset.'", "gold": null}
+{"id": "cs:en:11", "lang": "en", "category": "translate", "prompt": "Translate to Turkish and explain the suffixes: 'I am reading in my house.'", "gold": null}
+{"id": "cs:en:12", "lang": "en", "category": "translate", "prompt": "Translate to Malay: 'A part of the forest was cleared for the new road.'", "gold": null}
+{"id": "cs:en:13", "lang": "en", "category": "translate", "prompt": "Translate to French, then to Spanish: 'Where can I find a pharmacy that is open on Sunday?'", "gold": null}
+{"id": "cs:en:14", "lang": "en", "category": "translate", "prompt": "Translate to Indonesian: 'The meeting has been moved to Thursday afternoon.'", "gold": null}
+{"id": "cs:en:15", "lang": "en", "category": "translate", "prompt": "How do you say 'thank you very much' in Yoruba, Hausa, Zulu and Amharic? Give the script for Amharic.", "gold": null}
+{"id": "cs:en:16", "lang": "en", "category": "translate", "prompt": "Translate to German, keeping the formal register: 'We regret that the delivery will be delayed by two weeks.'", "gold": null}
+{"id": "cs:en:17", "lang": "en", "category": "translate", "prompt": "Translate to Vietnamese with diacritics: 'The bicycle repair shop is closed today.'", "gold": null}
+{"id": "cs:en:18", "lang": "en", "category": "brands", "prompt": "Compare the Škoda Octavia, Citroën C5 and Peugeot 308 for a family in Delhi on a modest budget.", "gold": null}
+{"id": "cs:en:19", "lang": "en", "category": "brands", "prompt": "Write a product description for a Norwegian outdoor jacket brand called 'Fjellrøyk'.", "gold": null}
+{"id": "cs:en:20", "lang": "en", "category": "brands", "prompt": "Suggest names for a café in Mumbai that sells Portuguese pastéis de nata and Turkish simit.", "gold": null}
+{"id": "cs:en:21", "lang": "en", "category": "code", "prompt": "Write a Python function that removes diacritics from a string like 'Crème Brûlée à Zürich' and explain each step.", "gold": null}
+{"id": "cs:en:22", "lang": "en", "category": "code", "prompt": "Write a regular expression that matches Polish postal codes and Czech phone numbers, with examples.", "gold": null}
+{"id": "cs:en:23", "lang": "en", "category": "code", "prompt": "Show a JSON object for a hotel booking with guest name 'Ørjan Håkonsen', city 'Tromsø', and notes in Norwegian.", "gold": null}
+{"id": "cs:en:24", "lang": "en", "category": "mixed", "prompt": "Explain the plot of a Bollywood film to a Brazilian friend, including three Portuguese phrases they might use to describe it.", "gold": null}
+{"id": "cs:en:25", "lang": "en", "category": "mixed", "prompt": "Write a dialogue between a Bengali shopkeeper and a Swedish tourist buying mangoes; the tourist speaks a little Swedish.", "gold": null}
+{"id": "cs:en:26", "lang": "en", "category": "mixed", "prompt": "A recipe for Hyderabadi biryani written for a Filipino audience, with Tagalog names for the common ingredients.", "gold": null}
+{"id": "cs:en:27", "lang": "en", "category": "mixed", "prompt": "Give a Hindi speaker five useful Swahili phrases for a trip to Nairobi, with pronunciation hints.", "gold": null}
+{"id": "cs:en:28", "lang": "en", "category": "mixed", "prompt": "Write a short poem about monsoon rain that includes one line each in Tamil, Portuguese and Malay.", "gold": null}
+{"id": "cs:en:29", "lang": "en", "category": "quotes", "prompt": "Quote three Portuguese proverbs about patience and explain each in English.", "gold": null}
+{"id": "cs:en:30", "lang": "en", "category": "quotes", "prompt": "What are common Italian words used in English music notation and what do they mean?", "gold": null}
+{"id": "cs:en:31", "lang": "en", "category": "quotes", "prompt": "Give five Latin legal phrases still used in Indian courts and explain them.", "gold": null}
+{"id": "cs:en:32", "lang": "en", "category": "science", "prompt": "Explain what the Ångström is, who it is named after, and why chemists still use it.", "gold": null}
+{"id": "cs:en:33", "lang": "en", "category": "science", "prompt": "Describe the work of Erwin Schrödinger and Niels Bohr for a high-school student in Chennai.", "gold": null}
+{"id": "cs:en:34", "lang": "en", "category": "geo", "prompt": "Plan a three-day trip covering Zürich, Luzern and Interlaken for a family from Dhaka, with correct place names.", "gold": null}
+{"id": "cs:en:35", "lang": "en", "category": "geo", "prompt": "Which rivers flow through São Paulo, Kraków and Gdańsk? Describe each city in two sentences.", "gold": null}
+{"id": "cs:en:36", "lang": "en", "category": "geo", "prompt": "List the capitals of Kyrgyzstan, Côte d'Ivoire, Curaçao and Timor-Leste with one fact about each.", "gold": null}
+{"id": "cs:en:37", "lang": "en", "category": "history", "prompt": "Summarise the career of Frédéric Chopin, mentioning the cities and people in his life with correct spellings.", "gold": null}
+{"id": "cs:en:38", "lang": "en", "category": "history", "prompt": "Explain the role of Hồ Chí Minh in Vietnamese history in three paragraphs.", "gold": null}
+{"id": "cs:en:39", "lang": "en", "category": "misc", "prompt": "Write instructions for pronouncing the Icelandic volcano Eyjafjallajökull, syllable by syllable.", "gold": null}
+{"id": "cs:hi:40", "lang": "hi", "category": "translate", "prompt": "इस वाक्य का पुर्तगाली में अनुवाद करें: 'बारिश के बाद पेड़ का तना काई से ढक गया।'", "gold": null}
+{"id": "cs:hi:41", "lang": "hi", "category": "translate", "prompt": "इसे स्वाहिली में कहें: 'कृपया दवा सूर्यास्त से पहले मेरी दादी को पहुँचा दें।'", "gold": null}
+{"id": "cs:hi:42", "lang": "hi", "category": "names", "prompt": "नॉर्वे के शहर Ålesund के काल्पनिक वायलिन वादक Søren Ødegaard का छोटा परिचय लिखें।", "gold": null}
+{"id": "cs:hi:43", "lang": "hi", "category": "loanwords", "prompt": "'Schadenfreude', 'déjà vu' और 'hygge' का अर्थ हिंदी में समझाएँ और हर एक को एक वाक्य में इस्तेमाल करें।", "gold": null}
+{"id": "cs:hi:44", "lang": "hi", "category": "brands", "prompt": "Škoda Octavia, Citroën C5 और Peugeot 308 की तुलना दिल्ली के एक परिवार के लिए करें।", "gold": null}
+{"id": "cs:hi:45", "lang": "hi", "category": "mixed", "prompt": "एक बंगाली दुकानदार और एक स्वीडिश पर्यटक के बीच संवाद लिखें; पर्यटक थोड़ी स्वीडिश बोलता है।", "gold": null}
+{"id": "cs:hi:46", "lang": "hi", "category": "geo", "prompt": "Zürich, Luzern और Interlaken की तीन दिन की यात्रा योजना ढाका के एक परिवार के लिए बनाएं।", "gold": null}
+{"id": "cs:hi:47", "lang": "hi", "category": "quotes", "prompt": "धैर्य पर तीन पुर्तगाली कहावतें लिखें और हर एक का हिंदी में अर्थ बताएं।", "gold": null}
+{"id": "cs:hi:48", "lang": "hi", "category": "science", "prompt": "Erwin Schrödinger और Niels Bohr के काम को चेन्नई के एक स्कूली छात्र के लिए समझाएँ।", "gold": null}
+{"id": "cs:hi:49", "lang": "hi", "category": "misc", "prompt": "आइसलैंड के ज्वालामुखी Eyjafjallajökull का उच्चारण अक्षर-दर-अक्षर समझाएँ।", "gold": null}
