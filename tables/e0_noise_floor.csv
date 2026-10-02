@@ -1,0 +1,7 @@
+dataset,precision,lang,ctrl_vs_ctrl_identity_pct
+aya,f16,bn,100.0
+aya,f16,en,100.0
+aya,q4_k_m,bn,100.0
+aya,q4_k_m,en,100.0
+mgsm,f16,bn,100.0
+mgsm,q4_k_m,bn,100.0
