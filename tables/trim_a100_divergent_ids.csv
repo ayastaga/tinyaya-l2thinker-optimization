@@ -1,6 +1,0 @@
-dataset,precision,lang,id
-aya,f16,en,aya:en:75
-aya,f16,en,aya:en:81
-aya,q4_k_m,en,aya:en:75
-aya,q4_k_m,en,aya:en:81
-mgsm,f16,bn,mgsm:bn:53
