@@ -57,13 +57,6 @@ vendor/l2.py               the harness module the notebooks depend on, pinned
 
 Row files carry `decoding`, `revision`, `gpu`, `max_new`, `n_ctx`, `n_prompt/n_trace/n_answer`, `finish`, `truncated`, `think_closed`, `doomloop`, and `correct` for MGSM. Tags: `trim_a100` round 1 · `trim_a100_rerun` E0 control second pass · `trim_a100_r2` E1/E2 · `trim_a100_r2x` exploratory MGSM sw. The earlier T4 rows (`tag=trim`) are excluded; paired comparisons must come from one GPU type.
 
-## Not yet done
-
-- **E3**, the code-switch set in `data/`: 50 prompts that force foreign names, loanwords and translations, pre-registered identity ≥ 90% plus a human read for misspelled respellings (~30 min A100). The loader for it is a 7-line addition to `l2.py` (see `docs/session_notes.md`).
-- **E4**, an Earth trim (Swahili, Hausa, Yoruba): the Latin-script stress test, with MGSM sw as the recovery metric against the 70.4 → 35.6 baseline.
-- Tier-2 (paired-metric) evaluation of flash attention and 8-bit KV cache, which together with `swa_full=False` would take 32K-context memory from 5.38 GB to 2.92 GB.
-- Confirm all `input_layernorm.bias` tensors in the checkpoint are zero (llama.cpp's Cohere2 graph is bias-free).
-
 ## Licences
 
 Code (`scripts/`, `notebooks/`, `vendor/l2.py`): MIT. The generation rows in `results/` are outputs of `CohereLabs/tiny-aya-l2-thinker`, released under CC-BY-NC, and are provided for research only under the same terms; see `DATA_LICENSE.md`. Model weights and GGUFs are not redistributed; accept the licence on the model page and convert locally.
