@@ -1,0 +1,2 @@
+dataset,precision,lang,in_region,n,identity_pct,trunc_ctrl_pct,d_trunc_pt,loop_ctrl,d_loop,acc_ctrl_pct,acc_trim_pct,d_acc_pt,discordant,mcnemar_p,d_loop_ci_lo,d_loop_ci_hi
+mgsm,f16,sw,False,250,0.0,5.6000000000000005,49.2,0.29357108602298415,0.3291507503172158,70.39999999999999,35.6,-34.8,107,4.8165830075002e-19,0.29103036389184395,0.3663984677420576
