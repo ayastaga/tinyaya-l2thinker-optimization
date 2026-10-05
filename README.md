@@ -1,9 +1,9 @@
 <video
   src="https://github.com/user-attachments/assets/4b90b456-a3f7-4a0a-9ba8-24d80a0e7eaf"
-  width="500"
+  width="450"
   autoplay
-  loop
   muted
+  loop
   playsinline
 ></video>
 
