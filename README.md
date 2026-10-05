@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/4b90b456-a3f7-4a0a-9ba8-24d80a0e7eaf
+
 # l2thinker-trim
 
 Regional vocabulary trimming of **Tiny Aya L2-Thinker** (Cohere Labs, 3.35B, multilingual reasoning) for on-device use, with a lossless-ness protocol borrowed from speculative decoding: the trimmed model must reproduce the untrimmed model's greedy output.
