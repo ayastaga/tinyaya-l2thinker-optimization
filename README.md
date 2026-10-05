@@ -1,4 +1,11 @@
-https://github.com/user-attachments/assets/4b90b456-a3f7-4a0a-9ba8-24d80a0e7eaf
+<video
+  src="https://github.com/user-attachments/assets/4b90b456-a3f7-4a0a-9ba8-24d80a0e7eaf"
+  width="500"
+  autoplay
+  loop
+  muted
+  playsinline
+></video>
 
 # l2thinker-trim
 
